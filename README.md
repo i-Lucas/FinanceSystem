@@ -14,3 +14,8 @@ A simple finance system using javascript to train programming skills
 
 this project was made by watching and studying a video on youtube
 https://www.youtube.com/watch?v=xarRciYWT5Q
+
+## Update 0.3
+- Added project printscreen
+
+![alt text](https://github.com/i-Lucas/FinanceSystem/blob/main/imagens/2.png)
