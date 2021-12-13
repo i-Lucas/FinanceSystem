@@ -7,7 +7,10 @@ A simple finance system using javascript to train programming skills
 - Added CSS layout
 
 ## Update 0.2
-- added functionality in javascript
+- added features in javascript:
+- local information storage (using localStorage)
+- automatic generation of ID's for transactions
+- functionalities to display and update values ​​in the application
 
 this project was made by watching and studying a video on youtube
 https://www.youtube.com/watch?v=xarRciYWT5Q
