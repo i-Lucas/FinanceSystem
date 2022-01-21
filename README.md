@@ -12,9 +12,6 @@ A simple finance system using javascript to train programming skills
 - automatic generation of ID's for transactions
 - functionalities to display and update values ​​in the application
 
-this project was made by watching and studying a video on youtube
-https://www.youtube.com/watch?v=xarRciYWT5Q
-
 ## Update 0.3
 - Added project printscreen
 
