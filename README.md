@@ -15,4 +15,7 @@ A simple finance system using javascript to train programming skills
 ## Update 0.3
 - Added project printscreen
 
+see the app online: 
+https://qsbii.csb.app/
+
 ![alt text](https://github.com/i-Lucas/FinanceSystem/blob/main/imagens/2.png)
